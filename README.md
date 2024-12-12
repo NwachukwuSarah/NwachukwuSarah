@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NwachukwuSarah
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Data Cleaning
+- 🌱 I’m currently learning ...machine learning/Data Science/Artificial Intelligence
+- 💞️ I’m looking to collaborate on a data Science project and help clean data
 - 📫 How to reach me ...snwachukwu361@gmail.com
 
 <!---
